@@ -19,18 +19,19 @@ const questions = [
     'The Hidden Mist Village',
     'The Hidden Cloud Village',
   ]),
-  QuizQuestion('In Death Note, which Shinigami drops the notebook into the human world?', [
-    'Ryuk',
-    'Rem',
-    'Sidoh',
-    'Gelus',
-  ]),
-  QuizQuestion('In Attack on Titan, which military branch goes outside the walls?', [
-    'The Survey Corps',
-    'The Garrison',
-    'The Military Police',
-    'The Training Corps',
-  ]),
+  QuizQuestion(
+    'In Death Note, which Shinigami drops the notebook into the human world?',
+    ['Ryuk', 'Rem', 'Sidoh', 'Gelus'],
+  ),
+  QuizQuestion(
+    'In Attack on Titan, which military branch goes outside the walls?',
+    [
+      'The Survey Corps',
+      'The Garrison',
+      'The Military Police',
+      'The Training Corps',
+    ],
+  ),
   QuizQuestion('What race is Goku in Dragon Ball Z?', [
     'Saiyan',
     'Namekian',
